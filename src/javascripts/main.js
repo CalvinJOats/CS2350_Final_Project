@@ -21,7 +21,7 @@ for(let r of resorts) {
 function links(r_link) {
 	let r_list = document.getElementById('r' + r_link.id)
 	r_list.innerHTML = `
-		<h5><a id="rList" href="${r_link.website}" target="on_blank"><b>${r_link.title}'s Website</b></a></h5>
+		<h5><a id="rList" href="${r_link.website}" target="on_blank"><b>${r_link.title}</b></a></h5>
 	`
 }
 	
