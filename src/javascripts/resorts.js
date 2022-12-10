@@ -29,7 +29,7 @@ export const resorts = [{
 	webcam:'<div class="ratio ratio-16x9"><iframe src="https://www.youtube.com/embed/g7fWaol3P1g?autoplay=1" title="Grand Targhee Dreamcatcher - SeeJH.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>',
 	location:"Alta, WY",
 	description:'Grand Targhee Resort is a ski resort in the western United States, located in western Wyoming in the Caribou-Targhee National Forest, near Alta, the closest town to the resort. It is 42 miles (68 km) northwest of Jackson and is accessible only from the west, through Driggs, Idaho. <a href="https://en.wikipedia.org/wiki/Grand_Targhee_Resort" target="on_blank"><b>Read more...</b></a>',
-	photo: "../images/grandtarghee.png",
+	photo: "/images/grandtarghee.png",
 	seasonP: "$1449",
 	fullP: "$120",
 	halfP: "$96"
